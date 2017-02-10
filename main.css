@@ -58,14 +58,13 @@ li:hover .submenu {
 	display: block;
 }
 
-li:hover {
-  background: #666;
-}
+
 
 .submenu {
   position: absolute;
-  left: 5px;
-  top: 146px;
+  left: 315px;
+  padding-top: 5px;
+  top: 148px;
   display: none;
 }
 
